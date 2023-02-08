@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 
+=======
+package excepciones_Iv2;
+>>>>>>> 7aa224ca3b047e437b404b2f1687769aef99f1de
 
 import java.util.Scanner;
 
 public class parimpar {
+<<<<<<< HEAD
     public static void main(String[] args) {
+=======
+        public static void main(String[] args) {
+>>>>>>> 7aa224ca3b047e437b404b2f1687769aef99f1de
         sumaParesImpares();
     }
     
@@ -21,9 +29,17 @@ public class parimpar {
             }
         }
         sc.close();
+<<<<<<< HEAD
         System.out.printf("El resultado: Total pares: %d; Total impares: %d", sumaPares, sumaImpares);
+=======
+        System.out.printf("Resultado: Total pares: %d; Total impares: %d", sumaPares, sumaImpares);
+>>>>>>> 7aa224ca3b047e437b404b2f1687769aef99f1de
     }
     
     
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7aa224ca3b047e437b404b2f1687769aef99f1de
